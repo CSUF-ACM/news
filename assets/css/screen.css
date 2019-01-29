@@ -221,7 +221,7 @@ License: https://www.wowthemes.net/freebies-license/
      margin-right:5px;
 }
  .mainheading h1.sitetitle {
-     font-family:Righteous;
+     font-family: 'Open Sans', sans-serif;
 }
  .mainheading h1.posttitle {
      font-weight:700;
@@ -242,7 +242,7 @@ License: https://www.wowthemes.net/freebies-license/
      color:rgba(0,0,0,.8);
 }
  .article-post {
-     font-family:Merriweather;
+     font-family: 'Roboto', sans-serif;
      font-size:1.1rem;
      line-height:1.84;
      color:rgba(0,0,0,.8);
@@ -415,7 +415,7 @@ License: https://www.wowthemes.net/freebies-license/
      font-size:0.85rem;
      display:inline-block;
 }
- .btn.subscribe {
+ .btn.jumbotron.png {
      background-color:#1C9963;
      border-color:#1C9963;
      color:rgba(255,255,255,1);
@@ -591,7 +591,7 @@ License: https://www.wowthemes.net/freebies-license/
          padding:0;
          height:350px;
          border-radius:0;
-         background-image: url(../images/jumbotron.jpg);
+         /* background-image: url(../images/jumbotron.png); */
          background-size:cover;
     }
      .jumbotron.fortags .col-md-4 {
@@ -606,7 +606,7 @@ License: https://www.wowthemes.net/freebies-license/
          margin-top: 3rem;
          padding:0;
          border-radius:0;
-         background-image: url(../images/jumbotron.jpg);
+         /* background-image: url(../images/jumbotron.png); */
          background-size:cover;
 }
  .jumbotron.fortags a {
