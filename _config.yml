@@ -1,42 +1,45 @@
+#
+destination: ./docs
+
 # Site
 name: "ACM CSUF News"
 description: "The latest and greatest news"
 meta_description: "News from the ACM CSUF Student Organization"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.png'
+logo: "assets/images/logo.png"
+favicon: "assets/images/favicon.png"
 baseurl: /news
-google_analytics: ''
-disqus: ''
-mailchimp-list: 'https://fullerton.us11.list-manage.com/subscribe/post?u=3dbde654283a22318e4cd016d&amp;id=693fc5f30b'
+google_analytics: ""
+disqus: ""
+mailchimp-list: "https://fullerton.us11.list-manage.com/subscribe/post?u=3dbde654283a22318e4cd016d&amp;id=693fc5f30b"
 
 # Authors
 authors:
   madi:
     name: Madison
     display_name: Madison
-    gravatar: 
-    email: 
-    web: 
-    twitter: 
+    gravatar:
+    email:
+    web:
+    twitter:
     description: ""
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
+    category: "/category/:name/"
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 highlighter: rouge
