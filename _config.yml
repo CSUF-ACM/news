@@ -7,6 +7,7 @@ description: "The latest and greatest news"
 meta_description: "News from the ACM CSUF Student Organization"
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.png"
+url: https://csuf-acm.github.io
 baseurl: /news
 google_analytics: ""
 disqus: ""

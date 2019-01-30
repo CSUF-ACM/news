@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/news/jekyll/tutorial/2018/01/11/customer-service.html</loc>
+<loc>http://localhost:4000/news/tutorial/2018/01/11/customer-service.html</loc>
 <lastmod>2018-01-11T00:00:00-08:00</lastmod>
 </url>
 <url>
@@ -9,9 +9,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/news/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/news/category/jekyll/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/news/category/tutorial/</loc>
