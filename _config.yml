@@ -26,7 +26,7 @@ minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "di
 locale: "en-US"
 title: "ACM Club News"
 title_separator: "-"
-name: "ACM News"
+name: "ACM CSUF"
 description: "Painstakingly built by the ACM CSUF elves."
 meta_description: "News from the ACM CSUF Student Organization"
 url: https://csuf-acm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -160,9 +160,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CSUF-ACM"
-    - label: "Complain about the site"
-      icon: "fab fa-fw"
-      email: clearlyhatemail@gmail.com #FIXME: don't know if this works
+    - label: "Complain about this site"       #TODO: Change this? but do i have to though?
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:clearlyhatemail@gmail.com" 
 
 # Reading Files
 include:
