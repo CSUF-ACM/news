@@ -123,6 +123,7 @@ author:
   links:
     - label: "Slack"
       icon: "fab fa-fw fa-slack"
+      url: "http://acmcsuf.slack.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/groups/acmcsuf"
@@ -142,27 +143,25 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CSUF-ACM"
 
+#FIXME: mailing list?
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "Slack"
+      icon: "fab fa-fw fa-slack"
+      url: "http://acmcsuf.slack.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://www.facebook.com/groups/acmcsuf"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/acmcsuf"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/acmcsuf/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CSUF-ACM"
 
 # Reading Files
 include:
