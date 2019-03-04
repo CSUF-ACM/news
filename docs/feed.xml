@@ -5,8 +5,8 @@
     <description>Painstakingly built by the ACM CSUF elves.</description>
     <link>http://localhost:4000/news/</link>
     <atom:link href="http://localhost:4000/news/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Mar 2019 11:14:17 -0800</pubDate>
-    <lastBuildDate>Mon, 04 Mar 2019 11:14:17 -0800</lastBuildDate>
+    <pubDate>Mon, 04 Mar 2019 11:21:30 -0800</pubDate>
+    <lastBuildDate>Mon, 04 Mar 2019 11:21:30 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
   </channel>

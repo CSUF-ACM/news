@@ -1,10 +1,10 @@
 ---
 permalink: /about/newsies
-author_profile: false
+author_profile: true
 ---
 
 # The ACM News Crew
 
-It's just madi.
+It's just madi. press F to pay respects
 
-[DON'T PRESS](/you-broke-it){: .btn .btn--danger .btn--x-large}
+[DON'T PRESS](/news/you-broke-it){: .btn .btn--danger .btn--x-large}
