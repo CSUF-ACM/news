@@ -1,6 +1,6 @@
-# 2019-03-04
+## 2019-03-04
 
-## POSTS
+### POSTS
 
 _note:_ single posts that may be updated and require minimal maintenance have a higher priority.
 
@@ -15,30 +15,30 @@ _note:_ single posts that may be updated and require minimal maintenance have a 
 
 `in progress:`
 
-### linux fest post
+##### linux fest post
 
 > gathering info from collab clubs for links used
 > reviewing feedback and editing
 > deciding on pictures
 > **waiting on:** additional feedback for content and wording
 
-### rose hack -- [low priority]
+##### rose hack -- [low priority]
 
 > reviewing feedback and editing
 > **waiting on:** need to contact last team member for responses, if interested
 
-### fizzbuzz -- [high priority]
+##### fizzbuzz -- [high priority]
 
 > still planning layout. single post. updated as needed.
 > **waiting on:** may need description. or not, if redundant from about events page
 
-### GCP Study Jam -- [low priority]
+##### GCP Study Jam -- [low priority]
 
 > **in backlog**
 
-## PAGES
+### PAGES
 
-### About Events Page
+#### About Events Page
 
 > talks about general purpose of each event types and experience level recommended for each.
 
@@ -59,7 +59,7 @@ _note:_ single posts that may be updated and require minimal maintenance have a 
 >   ----- waiting for response: ACM-W
 >   ----- need to contact: OSS
 
-## GENERAL/Site Management
+### GENERAL/Site Management
 
 `learning:`
 
