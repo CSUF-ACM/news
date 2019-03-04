@@ -7,4 +7,4 @@ author_profile: false
 
 It's just madi.
 
-[DON'T PRESS](/you-broke-it){: .btn .btn--danger .btn--x-large}
+[DON'T PRESS](/news/you-broke-it){: .btn .btn--danger .btn--x-large}
