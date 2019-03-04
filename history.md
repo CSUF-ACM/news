@@ -21,19 +21,19 @@ _note:_ single posts that may be updated and require minimal maintenance have a 
 > - deciding on pictures
 >   **waiting on:** additional feedback for content and wording
 
-##### rose hack -- [low priority]
+##### rose hack -- `low priority`
 
 > - reviewing feedback and editing
 >   **waiting on:** need to contact last team member for responses, if interested
 
-##### fizzbuzz -- [high priority]
+##### fizzbuzz -- `high priority`
 
 > - still planning layout. single post. updated as needed.
 >   **waiting on:** may need description. or not, if redundant from about events page
 
-##### GCP Study Jam -- [low priority]
+##### GCP Study Jam -- `low priority`
 
-> in backlog
+> - in backlog
 
 ### PAGES
 
@@ -62,9 +62,9 @@ _note:_ single posts that may be updated and require minimal maintenance have a 
 
 `learning:`
 
-> - text alignment -- _[high]_
-> - image/text wrap -- _[medium]_
-> - arranging multiple images -- _[low]_
+> - text alignment -- `high`
+> - image/text wrap -- `medium`
+> - arranging multiple images -- `low`
 
 `in progress:`
 
