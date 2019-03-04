@@ -27,7 +27,7 @@ locale: "en-US"
 title: "ACM Club News"
 title_separator: "-"
 name: "ACM News"
-description: "Painstakingly build by the ACM elves."
+description: "Painstakingly built by the ACM CSUF elves."
 meta_description: "News from the ACM CSUF Student Organization"
 url: https://csuf-acm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/news" # the subpath of your site, e.g. "/blog"
@@ -116,7 +116,7 @@ analytics:
 author:
   name: "ACM CSUF"
   avatar: "assets/images/acm-desktopcta.png"
-  bio: "I have no idea what I'm doing -madi"
+  bio: "I have no idea what I'm doing -madi"  #FIXME: Delete this nephew
   #location: "Fullerton, CA"
   #email: 
   links:
@@ -160,6 +160,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CSUF-ACM"
+    - label: "Complain about the site"
+      icon: "fab fa-fw"
+      email: clearlyhatemail@gmail.com #FIXME: don't know if this works
 
 # Reading Files
 include:
