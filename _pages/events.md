@@ -2,7 +2,6 @@
 permalink: /about/events
 title: "Club Events"
 author_profile: true
-footer: false
 header:
   overlay_image: /assets/images/header/about/adi-goldstein-671017-unsplash.jpg
   overlay_image_description: "Everyone can code banner"
@@ -12,3 +11,11 @@ header:
     - label: "Get Notified"
       url: "https://fullerton.us11.list-manage.com/subscribe/post?u=3dbde654283a22318e4cd016d&amp;id=693fc5f30b"
 ---
+
+<!-- content: short summary, what years experience is this for, how often -->
+
+## Workshops
+
+## FizzBuzz
+
+## Project Jams
