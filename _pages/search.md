@@ -1,0 +1,4 @@
+---
+permalink: /search
+title: "Search"
+---

@@ -31,11 +31,11 @@ name: "ACM News"
 description: "Painstakingly build by the ACM elves."
 meta_description: "News from the ACM CSUF Student Organization"
 url: https://csuf-acm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "/news" # the subpath of your site, e.g. "/blog"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: "ACM CSUF News" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: "csuf news" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
@@ -143,7 +143,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CSUF-ACM"
 
-#FIXME: mailing list?
+#TODO: mailing list?
 # Site Footer
 footer:
   links:
