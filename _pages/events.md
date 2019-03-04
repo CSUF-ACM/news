@@ -1,6 +1,8 @@
 ---
 permalink: /about/events
 title: "Club Events"
+author_profile: true
+footer: false
 header:
   overlay_image: /assets/images/header/about/adi-goldstein-671017-unsplash.jpg
   overlay_image_description: "Everyone can code banner"
