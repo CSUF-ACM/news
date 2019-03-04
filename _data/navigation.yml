@@ -1,5 +1,6 @@
 # main links
 main:
+  #TODO: add nav for posts & events, change search to search page,
   - title: "news crew"
     url: /about/newsies
   - title: "about us"
