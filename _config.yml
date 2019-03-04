@@ -160,7 +160,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CSUF-ACM"
-    - label: "Complain about this site"       #TODO: Change this? but do i have to though?
+    - label: "Site Feedback"       
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:clearlyhatemail@gmail.com" 
 
