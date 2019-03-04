@@ -1,46 +1,43 @@
-## 2019-03-04
+### 2019-03-04
 
-========
-+POSTS+
-========
+####POSTS
+
 _note:_ single posts that may be updated and require minimal maintenance have a higher priority.
 
-_number of posts:_ still none q.q
+**number of posts:** still none q.q
 
 `complete?`
 
-> content templates created for helping me write
+> content templates created for writing structure help
 >
 > - hackathon reflection (interview/survey)
 > - events
 
 `in progress:`
-_linux fest post_
+######linux fest post
 
-> - gathering info from collab clubs for links used
-> - reviewing feedback and editing
-> - deciding on pictures
->   _waiting on:_ additional feedback for content and wording
+> gathering info from collab clubs for links used
+> reviewing feedback and editing
+> deciding on pictures
+> **waiting on:** additional feedback for content and wording
 
-_rose hack_ -- [low priority]
+######rose hack -- [low priority]
 
-> ---- reviewing feedback and editing
-> ---_waiting on:_ need to contact last team member for responses, if interested
+> reviewing feedback and editing
+> **waiting on:** need to contact last team member for responses, if interested
 
-_fizzbuzz_ -- [high priority]
+######fizzbuzz -- [high priority]
 
-> ---- still planning layout. single post. updated as needed.
-> ---_waiting on:_ may need description. or not, if redundant from about events page
+> still planning layout. single post. updated as needed.
+> **waiting on:** may need description. or not, if redundant from about events page
 
-_GCP Study Jam_ -- [low priority]
+######GCP Study Jam -- [low priority]
 
-> ---- _in backlog_
+> **in backlog**
 
-========
-+PAGES+
-========
+####+PAGES+
 
-_=About Events Page=_
+#####About Events Page
 
 > talks about general purpose of each event types and experience level recommended for each.
 
@@ -61,9 +58,8 @@ _=About Events Page=_
 >   ----- waiting for response: ACM-W
 >   ----- need to contact: OSS
 
-========================
-+GENERAL/Site Management+
-========================
+####GENERAL/Site Management
+
 `learning:`
 
 > text alignment -- _[high]_
