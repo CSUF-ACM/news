@@ -3,10 +3,10 @@
   <channel>
     <title>ACM Club News</title>
     <description>Painstakingly build by the ACM elves.</description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Mar 2019 23:15:36 -0800</pubDate>
-    <lastBuildDate>Sun, 03 Mar 2019 23:15:36 -0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Mar 2019 23:44:58 -0800</pubDate>
+    <lastBuildDate>Sun, 03 Mar 2019 23:44:58 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
   </channel>
