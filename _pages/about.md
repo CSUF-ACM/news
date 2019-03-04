@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /about/acm-csuf
 author_profile: false
 title: "ACM Club"
 header:
