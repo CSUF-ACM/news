@@ -1,0 +1,13 @@
+# /_data/authors.yml
+
+#TODO: update to theme's syntax
+madi:
+  name: Madison Jordan
+  display_name: Madi
+  #TODO: add avatar
+  avatar:
+  gravatar:
+  email: clearlyhatemail@gmail.com
+  web:
+  twitter:
+  description: "Supreme ruler of ACM news content" #TODO: Change author description

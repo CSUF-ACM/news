@@ -1,1 +1,1 @@
-Sitemap: https://csuf-acm.github.io/news/sitemap.xml
+Sitemap: http://localhost:4000/news/sitemap.xml
