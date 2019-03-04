@@ -1,6 +1,7 @@
 # main links
 main:
   - title: about
+    url: /about
   # - label: "Slack"
   #   icon: "fab fa-fw fa-slack"
   # - label: "Facebook"
