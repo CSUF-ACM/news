@@ -1,10 +1,10 @@
 # main links
 main:
   #TODO: add nav for posts & events, change search to search page,
+  - title: "events"
+    url: /about/events
   - title: "news crew"
     url: /about/newsies
-  - title: "about us"
-    url: /about/acm-csuf
   # - label: "Slack"
   #   icon: "fab fa-fw fa-slack"
   # - label: "Facebook"
